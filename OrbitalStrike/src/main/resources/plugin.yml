@@ -1,0 +1,9 @@
+name: OrbitalStrike
+version: 1.0-SNAPSHOT
+main: it.zZalix.orbitalstrike.OrbitalStrikePlugin
+api-version: '1.21'
+commands:
+  fishingrod:
+    description: Use an OrbitalStrike with the help of this plugin!!
+    permission: orbitalstrike.use
+    usage: /fishingrod <nuke|stab|wolf|stasis|custom> <argomenti>
